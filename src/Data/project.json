@@ -1,0 +1,51 @@
+[
+    {
+      "imgSrc": "https://i.ibb.co/L5xfsKG/201-project-part-Hunt.png",
+      "projectTitle": "Part Hunt",
+      "projectDescription": "A website that illustrates the process of picking a suitable Part-time job that a company posted. as a University / College Students suffering from finding a part-time job and there is no suitable website that is well designed and developed for this specific purpose.",
+      "gitHubLink": "https://github.com/Vteam-201/PartHunt",
+      "LiveVersionLink": "https://vteam-201.github.io/PartHunt/",
+      "tools": "HTML,JAVASCRIPT,CSS"
+    },
+    
+    {
+      "imgSrc": "https://i.ibb.co/y5R0SBp/Cookie-Stand.png",
+      "projectTitle": "Cookie Stand",
+      "projectDescription": "website that calculates the number of cookies each location must make every day and the daily sales projections for each location that there is a cookie stand cafe",
+      "gitHubLink": "https://github.com/odehabuzaid/cookie-stand",
+      "LiveVersionLink": "https://odehabuzaid.github.io/cookie-stand/",
+      "tools": "HTML,JAVASCRIPT,CSS"
+    },
+    {
+      "imgSrc": "https://i.ibb.co/vPm6htS/aboutME.png",
+      "projectTitle": "about ME",
+      "projectDescription": "webpage that quizzes the user on fun facts gives the user some basic information about who i am and where i came from.",
+      "gitHubLink": "https://github.com/odehabuzaid/aboutMe",
+      "LiveVersionLink": "https://odehabuzaid.github.io/aboutMe/",
+      "tools": "HTML,JAVASCRIPT,CSS"
+    },
+    {
+      "imgSrc": "https://i.ibb.co/LryBCB4/HB.png",
+      "projectTitle": "Horned Beasts",
+      "projectDescription": "websitethat displays images and information of horned animals. This application allow you to filter the images by number of horns ,view specific images When you enters a character into the search field and chose your favorite image.",
+      "gitHubLink": "https://github.com/odehabuzaid/hornedbeasts",
+      "LiveVersionLink": "https://hornedbeasts-o.netlify.app/",
+      "tools": "React,Bootstrap,Aos,React-Scroll"
+    },
+    {
+      "imgSrc": "https://i.ibb.co/xzyWWk1/Capture.png",
+      "projectTitle": "My Portfolio",
+      "projectDescription": "Website Built with reactjs and ARGON design free template , the website show informations about me and my previous projects in code 201 , and current 301",
+      "gitHubLink": "https://github.com/odehabuzaid/portfolio",
+      "LiveVersionLink": "https://odehabuzaid.netlify.app/",
+      "tools": "React,Bootstrap,Aos,React-Scroll,EMAILJS"
+    },
+    {
+      "imgSrc": "https://i.ibb.co/3vTSg9x/Buss-Mall.png",
+      "projectTitle": "Buss Mall",
+      "projectDescription": "do market analysis on proposed products to test their potential customer interest before actually putting them into the catalog and getting the manufacturing wheels in motion.,",
+      "gitHubLink": "https://github.com/odehabuzaid/bus-mall",
+      "LiveVersionLink": "https://odehabuzaid.github.io/bus-mall/",
+      "tools": "HTML,JAVASCRIPT,CSS"
+    }
+  ]
